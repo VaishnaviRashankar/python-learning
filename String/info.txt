@@ -1,0 +1,37 @@
+String and characters
+numbers 
+ a-z A-Z !@#$%
+ white space
+ " "
+
+ single quotes - 'python'
+ double - "vaishnavi"
+ triple quotes
+ '''
+ this is multiline
+ '''
+
+ """
+ this is also a multiline 
+ """
+indexing always start from 0 zero
+a = 'Apython'
+A=0
+p=1
+y=2
+t=3
+h=4
+o=5
+n=6
+ -----------------------------------------
+ 3 characters
+
+1 - immutable
+2 - indexed
+3 - iterable
+
+-----------------------------------------------
+
+4 - Rela life example 
+
+ 

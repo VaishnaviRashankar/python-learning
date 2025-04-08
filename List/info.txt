@@ -1,0 +1,11 @@
+multiple element store in single element
+----------------------------------------
+characteristics
+1 - ordered
+2 - mutable (changable)
+3 - dynamic
+4 - heterogeneous(differnt type of data can store)
+
+ways of creating list
+1- using square brackets
+2

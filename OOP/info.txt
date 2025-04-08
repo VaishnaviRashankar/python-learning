@@ -1,0 +1,21 @@
+Problems in Procedural oriented/structural
+
+1 - code duplication (copy paste)
+2 - code maintance 
+3 - data security
+4 - poor code reusability
+5 - no real world programming
+
+
+Concepts of OOP's
+1 - Classes and objects
+2 - inheritance
+3 - encapsulation
+4 - abstraction
+5 - polymorphism
+
+
+poly : one name multiple forms
+encap : hiding data and allowing controlled access_alarm
+inheritance : reuse prperties/method from a parent class
+abstraction : hiding unncessary details

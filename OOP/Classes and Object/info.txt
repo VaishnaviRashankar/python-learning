@@ -1,0 +1,10 @@
+Class : class is a blueprint or template for creating  object
+Object : object is an real world entity .
+         Object are the actual instance of a class
+---------------------------------------------------
+
+self : special keyword used inside the class refer the  current object
+python automatically object as first argument i.e. python required
+
+Always used self to store property inside an object
+without self inside object vairable can not store

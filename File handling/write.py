@@ -1,0 +1,5 @@
+file = open('D:\Python Practical\Exception Handling\info.txt','w')
+content = input('enter a data to write')
+file.write(content)
+print('data saved successfully !' )
+file.close()

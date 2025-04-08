@@ -1,0 +1,17 @@
+multiple times repeat
+
+1 - while loop : iterate until condition certain condition true
+2 - for loop  :iterate  through 
+
+
+while loop 
+true
+
+synatx 
+while condition:
+    #code
+
+
+
+For loop //iterate 
+it is used when we neeed tp iterate through sequence

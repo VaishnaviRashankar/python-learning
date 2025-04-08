@@ -1,0 +1,2 @@
+1- string : sequence of charector
+2- list   : 

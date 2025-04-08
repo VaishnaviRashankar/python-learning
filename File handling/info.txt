@@ -1,0 +1,16 @@
+file handling : is a sequence or collection of store data that we can access,modify
+2 primary files bytes
+1 - text files(.txt,.csv)
+2 - binary files(non text data,.png,.jpg,.pdf,.mp3)
+Modes :
+r
+w
+a
+x
+r+ 
+w+ 
+a+ 
+x+ 
+with statement
+with open('file_name',mode) as file_name:
+  print(file_name.read())

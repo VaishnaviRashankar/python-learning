@@ -1,0 +1,10 @@
+1- immutable
+2- heterogenuous multiple datatype store
+3- list[]
+tuple() use
+
+len()
+min max
+count()
+index()
+sorted()

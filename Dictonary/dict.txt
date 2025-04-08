@@ -1,0 +1,20 @@
+Python Dictonary
+1 - Definition & Characteristics
+    Key-Value pairs
+    Unordered (before Python 3.7) now ordered
+    Mutable
+    dynamic
+2 - Creation
+    Using {} braces
+    Using dict() constructor
+3 - Operations
+    Adding items
+    Updating items
+    Deleting items
+4 - Dictonary Methods
+    get() , keys() , values(),items()
+    pop(), popitem(), clear()
+5 - Comprehensions
+    Dictonary Comprehensions
+6 - Nested Dictonary
+7 - Common Use Cases
